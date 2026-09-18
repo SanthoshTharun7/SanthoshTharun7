@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Working on SDR & RF Systems  
 👯 Open to collaborate on RF Security & Networking  
-🤝 Exploring Red Teaming  
+🤝 Exploring Blue Teaming  
 🌱 Learning scripting + reverse engineering over signals  
 💬 Ask me about Signal Processing & System Architecture  
 
